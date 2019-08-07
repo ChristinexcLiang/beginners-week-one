@@ -1,0 +1,22 @@
+html, body{
+  font-family: 'Josefin Sans', sans-serif;
+  color: white;
+  background-color: blue;
+  background-image: url('https://media3.giphy.com/media/ZEgBHVeRlmTqjCPlqx/giphy.gif?cid=ecf05e475d496f9f7a6e674a326816c5&rid=giphy.gif');
+}
+
+h1 {
+  color: yellow;
+}
+
+a {
+  color: red;
+}
+
+.big {
+  width: 60;
+}
+
+#duck {
+  width: 20%;
+}
